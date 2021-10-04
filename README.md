@@ -8,25 +8,25 @@
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Im Interested for You ❤ hehe jk, im fivem developer and Major IT but idontknow what a love for a live</h3>
+<h3 align="center">Im Interested for You ❤ hehe jk, im fivem developer and Major IT but idontknow what a love for a life</h3>
 
 <br>
 
 <br>
 
-  <a href="https://github.com/chakravarthi-v">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  <a href="https://github.com/https://github.com/InteLCore-star">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/InteLCore-star&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/chakravarthi-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  <a href="https://github.com/https://github.com/InteLCore-star">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/InteLCore-star&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
   </a>
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=chakravarthi-v.408179647)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/InteLCore-star.408179647)
 
 ------
 
-Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
+Credit: [https://github.com/InteLCore-star](https://github.com/https://github.com/InteLCore-star)
 
 Last Edited on: 20/09/2021
