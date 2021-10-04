@@ -27,6 +27,6 @@
 
 ------
 
-Credit: [chakravarthi-v](https://github.com/InteLCore-star)
+Credit: [InteLCore-star](https://github.com/InteLCore-star)
 
 Last Edited on: 20/09/2021
