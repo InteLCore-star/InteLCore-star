@@ -8,7 +8,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
 </p>
-<h3 align="center">Im Interested for You ❤ hehe jk, im fivem developer and Major IT but idontknow what a love for a life</h3>
+<h3 align="center">Open Developent For FiveM Server, CONTACT IN DISCORD Intel Core#3638</h3>
 
 <br>
 
